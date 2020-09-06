@@ -1,1 +1,1 @@
-# nextjs-react-styled-typescript-appoloserver
+# nextjs-react-styled-typescript-graphql
