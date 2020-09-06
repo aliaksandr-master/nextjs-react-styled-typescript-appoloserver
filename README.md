@@ -1,1 +1,1 @@
-# nextjs-react-styled-typescript-graphql
+# nest-typeorm-nextjs-react-styled-typescript-graphql-ssr
